@@ -1,0 +1,21 @@
+Job_Title,Average_Salary,Years_Experience,Education_Level,AI_Exposure_Index,Tech_Growth_Factor,Automation_Probability_2030,Risk_Category,Analytical & Problem-Solving,Technical / Digital,Programming & Data Handling,Communication & Presentation,Operational / Process,Adaptability & Learning,Statistical & Mathematical,Business & Domain,Creativity & Innovation,Leadership & Decision-Making
+Security Guard,45795,28,Master's,0.18,1.28,0.85,High,0.45,0.1,0.46,0.33,0.14,0.65,0.06,0.72,0.94,0
+Research Scientist,133355,20,PhD,0.62,1.11,0.05,Low,0.02,0.52,0.4,0.05,0.97,0.23,0.09,0.62,0.38,0.98
+Construction Worker,146216,2,High School,0.86,1.18,0.81,High,0.01,0.94,0.56,0.39,0.02,0.23,0.24,0.68,0.61,0.83
+Software Engineer,136530,13,PhD,0.39,0.68,0.6,Medium,0.43,0.21,0.57,0.03,0.84,0.45,0.4,0.93,0.73,0.33
+Financial Analyst,70397,22,High School,0.52,1.46,0.64,Medium,0.75,0.54,0.59,0.97,0.61,0.28,0.3,0.17,0.02,0.42
+AI Engineer,92592,11,Master's,0.29,0.51,0.1,Low,0.71,0.79,0.61,0.93,0.65,0.91,0.85,0.45,0.1,0.37
+Mechanic,107373,23,PhD,0.67,1.09,0.41,Medium,0.56,0.38,0.97,0.85,0.72,0.24,0.26,0.04,0.71,0.11
+Teacher,53419,12,High School,0.2,1.4,0.17,Low,0.56,0.7,0.14,0.6,0.54,0.2,0.94,0.6,0.69,0.88
+HR Specialist,139225,12,Master's,0.3,0.61,0.48,Medium,0.22,0.42,0.88,0.32,0.12,0.36,0.91,0.27,0.65,0
+Customer Support,85016,2,High School,0.01,1.01,0.8,High,0.22,0.12,0.34,0.94,0.32,0.52,0.7,0.36,0.97,0.96
+UX Researcher,82733,6,High School,0.5,0.8,0.41,Medium,0.04,0.61,0.5,0.05,0.28,0.91,0.24,0.14,0.49,0.99
+Lawyer,79811,27,High School,0.68,0.52,0.5,Medium,0.23,0.65,0.17,0.69,0.39,0.94,0.14,0.34,0.11,0.92
+Data Scientist,115981,9,High School,0.26,1.16,0.63,Medium,0.56,0.53,0.24,0.09,0.9,0.9,0.63,0.34,0.35,0.73
+Graphic Designer,32869,2,High School,0.65,0.72,0.58,Medium,0.24,0.33,0.75,0.65,0.85,0.66,0.57,0.09,0.37,0.27
+Retail Worker,148015,2,PhD,0.17,1.06,0.93,High,0.7,0.57,0.1,0.62,0.99,0.14,0.52,0.88,0.74,0.7
+Doctor,108069,15,Master's,0.55,0.8,0.15,Low,0.26,0.61,0.08,0.01,0.63,0.19,0.07,0.4,0.05,0.89
+Truck Driver,91629,24,High School,0.37,0.79,0.92,High,0.22,0.96,0.01,0.97,0.04,0.89,0.53,0.99,0.07,0.55
+Chef,53524,20,PhD,0.94,1.35,0.4,Medium,0.45,0.13,0.95,0.61,0.23,0.67,0.62,0.36,0.11,0.67
+Nurse,92516,11,Bachelor's,0.22,1.47,0.24,Low,0.11,0.57,0.99,0.47,0.18,0.48,0.51,0.74,0.7,0.4
+Marketing Manager,30060,10,PhD,0.6,0.96,0.33,Medium,0.08,0,0.97,0.01,0.1,0.31,0.81,0.96,0.79,0.69
