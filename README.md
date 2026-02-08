@@ -71,5 +71,4 @@ Skills: Power BI, SQL, Python, Data Analysis
 
 ---
 
-resume and Naukri profile  
-- This project counts as a real Data Analyst portfolio project  
+
